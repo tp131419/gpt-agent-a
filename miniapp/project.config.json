@@ -1,0 +1,13 @@
+{
+  "description": "GPT-Agent 小程序",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.25.3",
+  "appid": "你的开发版AppID",
+  "projectname": "gpt-agent-miniapp"
+}
